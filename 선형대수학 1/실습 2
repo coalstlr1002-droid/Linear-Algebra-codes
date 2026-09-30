@@ -1,4 +1,4 @@
-mport numpy as np
+import numpy as np
 
 #행렬 A와 B의 정의
 A = np.array([
